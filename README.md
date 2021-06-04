@@ -1,4 +1,4 @@
-# android-coinmarketcap-api-example
+# android-cryprocurrency-tracking-app
 This application uses the new Professional API from pro.coinmarketcap.com to display the top 100 crypto coins and their data.
 
 * features the API call to https://pro-api.coinmarketcap.com/v1/cryptocurrency/listings/latest?limit=100
